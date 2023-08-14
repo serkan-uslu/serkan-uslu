@@ -9,3 +9,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Listen Rap Music. Make music. Drawing is textured art.
 
 Note: For a terminal view of this intro, use ```npx serkan-uslu``` I think it's so cool 😎
+
+![Profile views](https://gpvc.arturio.dev/serkan-uslu)
