@@ -1,7 +1,10 @@
+#!/usr/bin/env node
+"use strict";
+
 import chalk from "chalk";
 import link from "terminal-link";
-import inquirer from "inquirer";
 import open from "open";
+import iq from "inquirer";
 
 const startHere = async () => {
   console.log(`
@@ -18,7 +21,7 @@ I love ${chalk.underline.bold.green(
   )}.
   `);
 
-  const terminalLinks = await inquirer.prompt([
+  iq.prompt([
     {
       type: "list",
       message: "Would you like to know more about me?  \n",
@@ -60,11 +63,11 @@ I love ${chalk.underline.bold.green(
         },
       ],
     },
-  ]);
-
-  if (terminalLinks.open) {
-    open(terminalLinks.open);
-  }
+  ])
+    .then(function (a) {
+      open(a.open);
+    })
+    .catch(function () {});
 };
 
 startHere();
