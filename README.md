@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 
 Note: For a terminal view of this intro, use ```npx serkan-uslu``` I think it's so cool 😎
 
-![Profil views](https://gpvc.arturio.dev/serkan-uslu)
+![](https://komarev.com/ghpvc/?username=serkan-uslu&style=flat-square&label=PROFILE+VIEWS)
 
