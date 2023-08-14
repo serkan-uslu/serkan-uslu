@@ -10,4 +10,5 @@ Here are some ideas to get you started:
 
 Note: For a terminal view of this intro, use ```npx serkan-uslu``` I think it's so cool 😎
 
-![Profile views]https://gpvc.arturio.dev/serkan-uslu
+![Profil views](https://gpvc.arturio.dev/serkan-uslu)
+
