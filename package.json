@@ -1,6 +1,6 @@
 {
   "name": "serkan-uslu",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "<!--\r **serkan-uslu/serkan-uslu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
   "bin": {
     "serkan-uslu": "su.js"
@@ -23,5 +23,14 @@
   "bugs": {
     "url": "https://github.com/serkan-uslu/serkan-uslu/issues"
   },
-  "homepage": "https://github.com/serkan-uslu/serkan-uslu#readme"
+  "homepage": "https://github.com/serkan-uslu/serkan-uslu#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "got": "^11.5.0",
+    "inquirer": "^7.3.0",
+    "open": "6.0.0",
+    "terminal-image": "^1.1.0",
+    "terminal-link": "^2.1.1",
+    "word-wrap": "^1.2.3"
+  }
 }
