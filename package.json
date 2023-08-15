@@ -3,12 +3,17 @@
   "version": "1.0.7",
   "description": "<!--\r **serkan-uslu/serkan-uslu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
   "type": "module",
+  "lint-staged": {
+    "**/*": "prettier --write --ignore-unknown"
+  },
   "bin": {
     "serkan-uslu": "su.js"
   },
   "main": "index.js",
   "scripts": {
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "prettier-check": "prettier --check *.js",
+    "prettier-write": "prettier --write *.js"
   },
   "repository": {
     "type": "git",
@@ -33,6 +38,7 @@
     "terminal-link": "^3.0.0"
   },
   "devDependencies": {
-    "husky": "^8.0.0"
+    "husky": "^8.0.0",
+    "prettier": "3.0.1"
   }
 }
