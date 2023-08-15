@@ -1,4 +1,3 @@
-.husky
-.prettierignore 
+.prettierignore
 .prettierrc.json
-.prettierignore 
+.husky
