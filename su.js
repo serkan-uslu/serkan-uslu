@@ -5,19 +5,20 @@ import chalk from "chalk";
 import link from "terminal-link";
 import open from "open";
 import iq from "inquirer";
+import bio from './bio.json' assert { type: "json" };
 
 const startHere = async () => {
   console.log(`
-Hello, My name is ${chalk.cyan.bold("Serkan USLU")}!
+Hello, My name is ${chalk.cyan.bold(bio.name)}!
 
 I'm a ${chalk.underline.green.overline.bold(
-    "front end developer"
-  )} and living in ${chalk.bold("Istanbul, Turkey")}.
+    bio.profession
+  )} and living in ${chalk.bold(bio.location)}.
 I love ${chalk.underline.bold.green(
-    "front end development"
+    bio.passion
   )} and I build things on my GitHub profile ${link(
-    chalk.cyan.bold("github.com/serkan-uslu"),
-    "https://github.com/serkan-uslu"
+    chalk.cyan.bold(bio.githubLink),
+    bio.githubLink
   )}.
   `);
 
@@ -31,31 +32,31 @@ I love ${chalk.underline.bold.green(
           name: chalk.blue(
             `You can see my Linkedin Profile (${chalk.bold("LinkedIn")})`
           ),
-          value: "https://linkedin.com/in/serkan-uslu",
+          value: bio.linkedin,
         },
         {
           name: chalk.white(
             `What am I doing on Github? (${chalk.bold("GitHub")})`
           ),
-          value: "https://github.com/serkan-uslu",
+          value: bio.github,
         },
         {
           name: chalk.white(
             `Read my articles on Medium? (${chalk.bold("Medium")})`
           ),
-          value: "https://medium.com/@serkan-uslu",
+          value: bio.medium
         },
         {
           name: chalk.white(
             `Would you like to see my CSS skils? (${chalk.bold("Codepen")})`
           ),
-          value: "https://codepen.io/serkan-uslu",
+          value: bio.codepen
         },
         {
           name: chalk.white(
             `My code snippets are here? (${chalk.bold("Codesandbox")})`
           ),
-          value: "https://codesandbox.io/u/serkan-uslu",
+          value: bio.codesandbox,
         },
         {
           name: chalk.red("👋 No Thanks.Bye. \n"),
@@ -65,9 +66,18 @@ I love ${chalk.underline.bold.green(
     },
   ])
     .then(function (a) {
-      open(a.open);
+      if (a.open) {
+        open(a.open).catch((error) => {
+          console.error(chalk.red("Error while opening the link: "), error);
+        });
+      } else {
+        console.log(chalk.green("Thank you! Have a great day!"));
+      }
     })
-    .catch(function () {});
+    .catch(function (error) {
+      console.error(chalk.red("An error occurred during the interaction:"), error);
+    });
+
 };
 
 startHere();
