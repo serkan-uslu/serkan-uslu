@@ -5,7 +5,19 @@ import chalk from 'chalk';
 import link from 'terminal-link';
 import open from 'open';
 import iq from 'inquirer';
-import bio from './bio.json' assert { type: 'json' };
+
+const bio = {
+  name: 'Serkan USLU',
+  profession: 'front end developer',
+  location: 'Istanbul, Turkey',
+  passion: 'front end development',
+  github: 'github.com/serkan-uslu',
+  githubLink: 'https://github.com/serkan-uslu',
+  linkedin: 'https://linkedin.com/in/serkan-uslu',
+  medium: 'https://medium.com/@serkan-uslu',
+  codepen: 'https://codepen.io/serkan-uslu',
+  codesandbox: 'https://codesandbox.io/u/serkan-uslu',
+};
 
 const startHere = async () => {
   console.log(`
