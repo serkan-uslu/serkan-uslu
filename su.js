@@ -2,11 +2,13 @@
 'use strict';
 
 import chalk from 'chalk';
-import link from 'terminal-link';
 import open from 'open';
 import iq from 'inquirer';
+import fetch from 'node-fetch';
 
 const bio = {
+  readmeFileURL:
+    'https://raw.githubusercontent.com/serkan-uslu/serkan-uslu/main/README.md',
   name: 'Serkan USLU',
   profession: 'front end developer',
   location: 'Istanbul, Turkey',
@@ -17,20 +19,26 @@ const bio = {
   medium: 'https://medium.com/@serkan-uslu',
 };
 
-const startHere = async () => {
-  console.log(`
-Hello, My name is ${chalk.cyan.bold(bio.name)}!
+const printReadme = async (readmeFileURL) => {
+  try {
+    const response = await fetch(readmeFileURL);
+    if (!response.ok) {
+      throw new Error(`Network response was not ok ${response.statusText}`);
+    }
+    let text = await response.text();
+    text = text
+      .split('\n')
+      .filter((line) => !line.startsWith('!'))
+      .join('\n');
+    return text;
+  } catch (error) {
+    console.error('Fetch error:', error);
+  }
+};
 
-I'm a ${chalk.underline.green.overline.bold(
-    bio.profession,
-  )} and living in ${chalk.bold(bio.location)}.
-I love ${chalk.underline.bold.green(
-    bio.passion,
-  )} and I build things on my GitHub profile ${link(
-    chalk.cyan.bold(bio.githubLink),
-    bio.githubLink,
-  )}.
-  `);
+const startHere = async () => {
+  const me = await printReadme(bio.readmeFileURL);
+  console.log(me);
 
   iq.prompt([
     {
@@ -45,7 +53,7 @@ I love ${chalk.underline.bold.green(
           value: bio.linkedin,
         },
         {
-          name: chalk.bgGray(
+          name: chalk.bgGrey(
             `What am I doing on Github? (${chalk.bold('GitHub')})`,
           ),
           value: bio.github,
@@ -57,7 +65,7 @@ I love ${chalk.underline.bold.green(
           value: bio.medium,
         },
         {
-          name: chalk.red('No Thanks.Bye. \n'),
+          name: chalk.gray('No Thanks.Bye. \n'),
           value: false,
         },
       ],
