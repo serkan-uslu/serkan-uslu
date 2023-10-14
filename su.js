@@ -26,11 +26,17 @@ const printReadme = async (readmeFileURL) => {
       throw new Error(`Network response was not ok ${response.statusText}`);
     }
     let text = await response.text();
-    text = text
-      .split('\n')
-      .filter((line) => !line.startsWith('!'))
-      .join('\n');
-    return text;
+    const startTag = '<!-- npx serkan-uslu:START -->';
+    const endTag = '<!-- npx serkan-uslu:END -->';
+    const startIndex = text.indexOf(startTag) + startTag.length;
+    const endIndex = text.indexOf(endTag);
+
+    if (startIndex !== -1 && endIndex !== -1 && startIndex < endIndex) {
+      const blogPostList = text.slice(startIndex, endIndex);
+      return blogPostList;
+    } else {
+      console.error('Tags not found or misordered');
+    }
   } catch (error) {
     console.error('Fetch error:', error);
   }

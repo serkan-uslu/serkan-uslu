@@ -1,3 +1,5 @@
+<!-- npx serkan-uslu:START -->
+
 ### Hi there 👋 I'm Serkan
 
 A frontend developer from Turkey/Istanbul
@@ -15,6 +17,8 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences https://www.linkedin.com/in/serkan-uslu/
 
 - ⚡ Fun fact: Listen Rap Music. Make music. Drawing is textured art.
+
+<!-- npx serkan-uslu:END -->
 
 Note: For a terminal view of this intro, use `npx serkan-uslu` I think it's so cool 😎
 
