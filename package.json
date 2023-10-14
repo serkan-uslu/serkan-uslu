@@ -1,6 +1,6 @@
 {
   "name": "serkan-uslu",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "About Serkan USLU",
   "type": "module",
   "lint-staged": {
