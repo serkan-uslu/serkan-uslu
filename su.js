@@ -15,8 +15,6 @@ const bio = {
   githubLink: 'https://github.com/serkan-uslu',
   linkedin: 'https://linkedin.com/in/serkan-uslu',
   medium: 'https://medium.com/@serkan-uslu',
-  codepen: 'https://codepen.io/serkan-uslu',
-  codesandbox: 'https://codesandbox.io/u/serkan-uslu',
 };
 
 const startHere = async () => {
@@ -41,37 +39,25 @@ I love ${chalk.underline.bold.green(
       name: 'open',
       choices: [
         {
-          name: chalk.blue(
+          name: chalk.bgBlue(
             `You can see my Linkedin Profile (${chalk.bold('LinkedIn')})`,
           ),
           value: bio.linkedin,
         },
         {
-          name: chalk.white(
+          name: chalk.bgGray(
             `What am I doing on Github? (${chalk.bold('GitHub')})`,
           ),
           value: bio.github,
         },
         {
-          name: chalk.white(
+          name: chalk.bgBlack(
             `Read my articles on Medium? (${chalk.bold('Medium')})`,
           ),
           value: bio.medium,
         },
         {
-          name: chalk.white(
-            `Would you like to see my CSS skils? (${chalk.bold('Codepen')})`,
-          ),
-          value: bio.codepen,
-        },
-        {
-          name: chalk.white(
-            `My code snippets are here? (${chalk.bold('Codesandbox')})`,
-          ),
-          value: bio.codesandbox,
-        },
-        {
-          name: chalk.red('👋 No Thanks.Bye. \n'),
+          name: chalk.red('No Thanks.Bye. \n'),
           value: false,
         },
       ],

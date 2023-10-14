@@ -1,6 +1,6 @@
 {
   "name": "serkan-uslu",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "About Serkan USLU",
   "type": "module",
   "lint-staged": {
@@ -21,6 +21,7 @@
   },
   "keywords": [
     "su",
+    "serkan-uslu",
     "serkanuslu",
     "serkanuslu.com"
   ],
