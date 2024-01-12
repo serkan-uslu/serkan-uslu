@@ -54,8 +54,10 @@ Note: For a terminal view of this intro, use `npx serkan-uslu` I think it's so c
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://reactnative.dev/img/header_logo.svg" height="40" alt="react native logo"  />
+  <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
