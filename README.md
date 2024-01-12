@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 -  Know about my experiences https://www.linkedin.com/in/serkan-uslu/
 
+- These are my npm packages https://www.npmjs.com/settings/serkan-uslu/packages  
+
 -  Fun fact: Listen Rap Music. Make music. Drawing is textured art.
   
 -  Also I'm an algorithmic trader on Crypto Currency Market, BIST100 and S&P500.
