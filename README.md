@@ -38,6 +38,8 @@ Note: For a terminal view of this intro, use `npx serkan-uslu` I think it's so c
   
 - [GitHub’daki İlk Adımlar: Büyük Projelerin İlk Commit’lerini Keşfetmek](https://medium.com/@serkan-uslu/githubdaki-i%CC%87lk-ad%C4%B1mlar-b%C3%BCy%C3%BCk-projelerin-i%CC%87lk-commit-lerini-ke%C5%9Ffetmek-94acb5a81814)
 
+- [Git Hooks ile Conventional Commits Kullanımı](https://medium.com/@serkan-uslu/git-hooks-ile-conventional-commits-kullan%C4%B1m%C4%B1-11de217c412f)
+
 
 <!-- Blog posts:END -->
 
