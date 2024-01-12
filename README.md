@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -  Know about my experiences https://www.linkedin.com/in/serkan-uslu/
 
-- These are my npm packages https://www.npmjs.com/settings/serkan-uslu/packages  
+- These are my npm packages https://www.npmjs.com/~serkan-uslu 
 
 -  Fun fact: Listen Rap Music. Make music. Drawing is textured art.
   
