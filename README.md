@@ -78,6 +78,8 @@ Note: For a terminal view of this intro, use `npx serkan-uslu` I think it's so c
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
   <img width="12" />
+  <img src="https://serkanuslu.com/icons/prettier-icon.png" height="40" alt="prettier logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
