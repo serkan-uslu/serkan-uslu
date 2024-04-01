@@ -6,21 +6,21 @@ A frontend developer from Turkey/Istanbul
 
 Here are some ideas to get you started:
 
--  I’m currently working on **Inveon - Digital Commerce Solutions**
+- I’m currently working on **Inveon - Digital Commerce Solutions**
 
--  I’m currently learning **React-Native**.
+- I’m currently learning **React-Native**.
 
--  It's my website https://www.serkanuslu.com
+- It's my website https://www.serkanuslu.com
 
--  I regularly write articles on https://medium.com/@serkan-uslu
+- I regularly write articles on https://medium.com/@serkan-uslu
 
--  Know about my experiences https://www.linkedin.com/in/serkan-uslu/
+- Know about my experiences https://www.linkedin.com/in/serkan-uslu/
 
-- These are my npm packages https://www.npmjs.com/~serkan-uslu 
+- These are my npm packages https://www.npmjs.com/~serkan-uslu
 
--  Fun fact: Listen Rap Music. Make music. Drawing is textured art.
-  
--  Also I'm an algorithmic trader on Crypto Currency Market, BIST100 and S&P500.
+- Fun fact: Listen Rap Music. Make music. Drawing is textured art.
+
+- Also I'm an algorithmic trader on Crypto Currency Market, BIST100 and S&P500.
 
 <!-- npx serkan-uslu:END -->
 
@@ -33,20 +33,13 @@ Note: For a terminal view of this intro, use `npx serkan-uslu` I think it's so c
 ### Blogs posts
 
 - [Git Hook ile Commit Mesaj Kontrolü](https://medium.com/@serkan-uslu/git-hook-ile-commit-mesaj-kontrol%C3%BC-e064a814d250)
-  
 - [Puppeteer & Recording](https://medium.com/@serkan-uslu/puppeteer-recording-37839e4426eb)
-  
 - [GitHub’daki İlk Adımlar: Büyük Projelerin İlk Commit’lerini Keşfetmek](https://medium.com/@serkan-uslu/githubdaki-i%CC%87lk-ad%C4%B1mlar-b%C3%BCy%C3%BCk-projelerin-i%CC%87lk-commit-lerini-ke%C5%9Ffetmek-94acb5a81814)
 
 - [Git Hooks ile Conventional Commits Kullanımı](https://medium.com/@serkan-uslu/git-hooks-ile-conventional-commits-kullan%C4%B1m%C4%B1-11de217c412f)
 
-
-<!-- Blog posts:END -->
-
-<!-- Skils:START -->
-
 ### Languages and Tools:
-   
+
  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -110,4 +103,3 @@ Note: For a terminal view of this intro, use `npx serkan-uslu` I think it's so c
 </div>
 
 ###
-<!-- Skils:END -->
