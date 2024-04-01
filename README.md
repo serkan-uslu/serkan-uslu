@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - I’m currently working on **Inveon - Digital Commerce Solutions**
 
-- I’m currently learning **React-Native**.
+- I’m currently learning **Tensorflow**.
 
 - It's my website https://www.serkanuslu.com
 
@@ -39,6 +39,8 @@ Note: For a terminal view of this intro, use `npx serkan-uslu` I think it's so c
 - [Git Hooks ile Conventional Commits Kullanımı](https://medium.com/@serkan-uslu/git-hooks-ile-conventional-commits-kullan%C4%B1m%C4%B1-11de217c412f)
 
 ### Languages and Tools:
+
+<br/>
 
  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
