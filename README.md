@@ -2,7 +2,7 @@
 
 # Serkan Uslu
 
-### Lead Frontend Engineer building AI-powered products.
+### Lead Frontend Developer building AI-powered products.
 
 I turn 10+ years of frontend and e-commerce experience into fast, accessible, production-ready web products.
 
