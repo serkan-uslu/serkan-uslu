@@ -2,7 +2,7 @@
 
 I'm Serkan, a **Frontend / Creative Developer**. I use code, AI and design to turn ideas into products, tools, characters and digital experiences.
 
-<img src="./assets/code.gif" width="58" align="left" alt="Code pixel character" />
+<img src="./assets/code.gif" width="80" align="left" alt="Code pixel character" />
 
 ### Code
 
@@ -10,7 +10,7 @@ I've been building frontend products since 2014, primarily in e-commerce. I care
 
 <br clear="left" />
 
-<img src="./assets/create.gif" width="58" align="left" alt="Create pixel character" />
+<img src="./assets/create.gif" width="80" align="left" alt="Create pixel character" />
 
 ### Create
 
@@ -18,7 +18,7 @@ I explore AI as a material for new interfaces and forms of storytelling. My work
 
 <br clear="left" />
 
-<img src="./assets/explore.gif" width="58" align="left" alt="Explore pixel character" />
+<img src="./assets/explore.gif" width="80" align="left" alt="Explore pixel character" />
 
 ### Explore
 
