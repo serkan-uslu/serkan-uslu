@@ -1,42 +1,55 @@
-<img align="right" width="156" src="https://avatars.githubusercontent.com/u/65805346?v=4" alt="Serkan Uslu" />
+[![Serkan Uslu — Code, Create, Explore](assets/profile-cover.svg)](https://serkanuslu.com)
 
 # Serkan Uslu
 
-### Lead Frontend Developer building AI-powered products.
+### Frontend / Creative Developer
 
-I turn 10+ years of frontend and e-commerce experience into fast, accessible, production-ready web products.
+I turn ideas into products, tools and digital experiences using code, AI and design.
 
-[Portfolio](https://serkanuslu.com) · [LinkedIn](https://www.linkedin.com/in/serkan-uslu/) · [Writing](https://medium.com/@serkan-uslu) · [Email](mailto:info@serkanuslu.com)
+Frontend since 2014, with a background in e-commerce and frontend leadership. I care about fast, accessible interfaces, understandable systems, and the details that make a product feel right.
 
-`10+ years` · `Lead at Inveon` · `AI product interfaces` · `Commerce at scale`
+[Website ↗](https://serkanuslu.com) · [LinkedIn](https://www.linkedin.com/in/serkan-uslu/) · [Writing](https://medium.com/@serkan-uslu) · [Email](mailto:info@serkanuslu.com)
 
-## Selected work
+---
 
-| Project | What it demonstrates |
-|---|---|
-| [TalkTree](https://github.com/serkan-uslu/talktree-case-study) | Branching AI conversations, streaming state, product and interaction design |
-| [Ollama Explorer](https://github.com/serkan-uslu/ollama-explorer) | A fast, filterable directory for 214 open-source Ollama models |
-| [Fikry](https://github.com/serkan-uslu/fikry-case-study) | A bilingual 3D AI character with synchronized model and interface state |
-| [Commerce Frontend Case Studies](https://github.com/serkan-uslu/commerce-frontend-case-studies) | Frontend leadership, performance, accessibility, and reusable commerce systems |
+## 01 / Code
 
-## What I mean by AI-powered frontend
+Products and practical tools, from the interaction model to the working interface.
 
-The interface is part of the AI system. Streaming responses, uncertainty, sources, latency, branching state, failures, fallbacks, cost, and human control need product decisions - not just a chat box added after the fact.
+| Project | What I’m building |
+| :--- | :--- |
+| **[TalkTree ↗](https://www.talktree.ai/)** · Code + Create | A branching AI conversation workspace. I shaped the idea, interaction model and frontend so alternative paths stay connected without losing the original conversation. |
+| **[Tell-We ↗](https://tell-we.vercel.app/)** · Code + Create | Programmatic AI video and storytelling. I design the product and build the rendering pipeline, bringing text, generated assets and React-based video together. |
+| **[Lucid Disk ↗](https://github.com/serkan-uslu/lucid-disk)** · Code | A disk analysis app for Mac, built with Swift. My current focus: making storage easier to understand. Source available here on GitHub. |
 
-My current work combines React and Next.js product engineering with local models, RAG, structured output, agent workflows, and generative interfaces.
+## 02 / Create
 
-## Experience and research
+AI as raw material for characters, stories and interactive experiences—not just another chat box.
 
-- Building web products professionally since 2014; Lead Frontend Developer at Inveon since 2021.
-- Worked across production commerce experiences for international and Turkish brands.
-- Co-author of **“Multi-Criteria Review Scoring in E-Commerce with LLM-Based Validation,”** accepted for ICHORA 2026 ([official list, paper 479](https://www.set-science.com/org/ichora2026/accepted_papers_list.php)).
-- Based in Istanbul, Türkiye.
+- **[Fikry ↗](https://asktofikry.vercel.app/)** — An intentionally unreliable AI companion in a retro CRT interface. Character design meets creative coding and a reactive Three.js character.
+- **[Sadi ↗](https://www.youtube.com/@TheLastFrontEndDeveloper)** — The last frontend developer: a fictional character exploring the future of development through AI-assisted storytelling and comedy.
+- **[Fallama ↗](https://fallama.com)** — A fortune-telling llama with a world of its own. I carry the character, humor and product experience across web, mobile and social content.
 
-## Principles
+## 03 / Explore
 
-- Start with the user problem and a measurable outcome.
-- Make performance and accessibility release constraints.
-- Prefer small, understandable systems over speculative architecture.
-- Keep AI behavior observable, recoverable, and under human control.
+New places, ideas and ways of making things. Curiosity is where most of my work begins—and not everything needs to become a product.
 
-If you are hiring for a lead frontend role or building an AI-powered product, email [info@serkanuslu.com](mailto:info@serkanuslu.com).
+I write about what I notice along the way, from building AI products to traveling through Denmark, Sweden and Norway.
+
+[Explore my website ↗](https://serkanuslu.com) · [Read the TalkTree story ↗](https://medium.com/@serkan-uslu/talktree-a-new-way-to-talk-with-artificial-intelligence-40340424969e)
+
+---
+
+### Tools I work with
+
+**Web & mobile** — TypeScript, React, Next.js, React Native / Expo
+
+**Creative development** — Three.js, Remotion
+
+**AI workflows** — AI SDK, Ollama, ComfyUI
+
+### Say hi
+
+An idea, a project, or just hello.
+
+[serkanuslu.com ↗](https://serkanuslu.com) · [info@serkanuslu.com](mailto:info@serkanuslu.com)

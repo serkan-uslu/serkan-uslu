@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">Serkan Uslu — Code, Create, Explore</title>
+  <desc id="desc">Warm paper, bold typography, mint, pink and yellow labels, and a pixel cursor.</desc>
+  <rect width="1200" height="440" rx="8" fill="#f4f1ec"/>
+  <g fill="#151515">
+    <text x="56" y="72" font-family="monospace" font-size="28" font-weight="700">&lt;SU&gt;</text>
+    <text x="1144" y="70" text-anchor="end" font-family="monospace" font-size="19">FRONTEND / CREATIVE DEVELOPER</text>
+    <text x="50" y="215" font-family="Arial, Helvetica, sans-serif" font-size="116" font-weight="800" letter-spacing="-6">Serkan Uslu.</text>
+    <text x="57" y="266" font-family="monospace" font-size="22">Ideas into products, tools &amp; digital experiences.</text>
+  </g>
+  <g font-family="monospace" font-size="24" font-weight="700" fill="#151515">
+    <rect x="56" y="324" width="226" height="62" fill="#66ffc8" transform="rotate(-2 169 355)"/>
+    <text x="80" y="364">01 / Code</text>
+    <rect x="306" y="324" width="252" height="62" fill="#ff9dbd" transform="rotate(1 432 355)"/>
+    <text x="330" y="364">02 / Create</text>
+    <rect x="582" y="324" width="276" height="62" fill="#ffe066" transform="rotate(-1 720 355)"/>
+    <text x="606" y="364">03 / Explore</text>
+  </g>
+  <g transform="translate(1020 296) scale(7)" shape-rendering="crispEdges">
+    <path fill="#151515" d="M0 0h2v2h2v2h2v2h2v2h2v2h2v2H8v2h2v4H7v-4H5v-2H3v3H0z"/>
+    <path fill="#f4f1ec" d="M1 3h1v1h2v2h2v2h2v2h1v1H6v3h2v3H8v-4H5v-2H3v1H1z"/>
+    <path fill="#ff9dbd" d="M16 0h2v2h-2zM14 4h2v2h-2z"/>
+    <path fill="#66ffc8" d="M-5 6h2v2h-2z"/>
+    <path fill="#ffe066" d="M14 11h2v2h-2z"/>
+  </g>
+</svg>
