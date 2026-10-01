@@ -1,55 +1,53 @@
-[![Serkan Uslu — Code, Create, Explore](assets/profile-cover.svg)](https://serkanuslu.com)
-
 # Serkan Uslu
 
-### Frontend / Creative Developer
+**Frontend / Creative Developer**
 
 I turn ideas into products, tools and digital experiences using code, AI and design.
 
-Frontend since 2014, with a background in e-commerce and frontend leadership. I care about fast, accessible interfaces, understandable systems, and the details that make a product feel right.
-
-[Website ↗](https://serkanuslu.com) · [LinkedIn](https://www.linkedin.com/in/serkan-uslu/) · [Writing](https://medium.com/@serkan-uslu) · [Email](mailto:info@serkanuslu.com)
+[Website](https://serkanuslu.com) · [LinkedIn](https://www.linkedin.com/in/serkan-uslu/) · [Writing](https://medium.com/@serkan-uslu) · [Email](mailto:info@serkanuslu.com)
 
 ---
 
-## 01 / Code
+## Selected work
 
-Products and practical tools, from the interaction model to the working interface.
+### 01 — Code
 
-| Project | What I’m building |
-| :--- | :--- |
-| **[TalkTree ↗](https://www.talktree.ai/)** · Code + Create | A branching AI conversation workspace. I shaped the idea, interaction model and frontend so alternative paths stay connected without losing the original conversation. |
-| **[Tell-We ↗](https://tell-we.vercel.app/)** · Code + Create | Programmatic AI video and storytelling. I design the product and build the rendering pipeline, bringing text, generated assets and React-based video together. |
-| **[Lucid Disk ↗](https://github.com/serkan-uslu/lucid-disk)** · Code | A disk analysis app for Mac, built with Swift. My current focus: making storage easier to understand. Source available here on GitHub. |
+**[TalkTree](https://www.talktree.ai/)**
 
-## 02 / Create
+Branching AI conversations without losing the original path. I shaped the product idea, interaction model and frontend experience.
 
-AI as raw material for characters, stories and interactive experiences—not just another chat box.
+**[Tell-We](https://tell-we.vercel.app/)**
 
-- **[Fikry ↗](https://asktofikry.vercel.app/)** — An intentionally unreliable AI companion in a retro CRT interface. Character design meets creative coding and a reactive Three.js character.
-- **[Sadi ↗](https://www.youtube.com/@TheLastFrontEndDeveloper)** — The last frontend developer: a fictional character exploring the future of development through AI-assisted storytelling and comedy.
-- **[Fallama ↗](https://fallama.com)** — A fortune-telling llama with a world of its own. I carry the character, humor and product experience across web, mobile and social content.
+A programmatic AI video and storytelling platform that brings text, generated assets and React-based rendering together.
 
-## 03 / Explore
+**[Lucid Disk](https://github.com/serkan-uslu/lucid-disk)**
 
-New places, ideas and ways of making things. Curiosity is where most of my work begins—and not everything needs to become a product.
+A native Mac disk analyzer built with Swift. Source available on GitHub.
 
-I write about what I notice along the way, from building AI products to traveling through Denmark, Sweden and Norway.
+### 02 — Create
 
-[Explore my website ↗](https://serkanuslu.com) · [Read the TalkTree story ↗](https://medium.com/@serkan-uslu/talktree-a-new-way-to-talk-with-artificial-intelligence-40340424969e)
+**[Fikry](https://asktofikry.vercel.app/)**
+
+An intentionally unreliable AI companion inside a retro CRT interface.
+
+**[Sadi](https://www.youtube.com/@TheLastFrontEndDeveloper)**
+
+A fictional character exploring the future of frontend development through comedy.
+
+**[Fallama](https://fallama.com)**
+
+A fortune-telling llama brought to life across web, mobile and social content.
+
+### 03 — Explore
+
+Curiosity is where most of my work begins. I write about products, AI, places and the ideas I meet along the way.
+
+[Read the TalkTree story](https://medium.com/@serkan-uslu/talktree-a-new-way-to-talk-with-artificial-intelligence-40340424969e) · [Explore more](https://serkanuslu.com)
 
 ---
 
-### Tools I work with
+Frontend since 2014. Currently working across **TypeScript, React, Next.js, Swift, React Native, Three.js, Remotion and AI workflows**.
 
-**Web & mobile** — TypeScript, React, Next.js, React Native / Expo
+Have an idea, a project, or just want to say hello?
 
-**Creative development** — Three.js, Remotion
-
-**AI workflows** — AI SDK, Ollama, ComfyUI
-
-### Say hi
-
-An idea, a project, or just hello.
-
-[serkanuslu.com ↗](https://serkanuslu.com) · [info@serkanuslu.com](mailto:info@serkanuslu.com)
+[info@serkanuslu.com](mailto:info@serkanuslu.com)
