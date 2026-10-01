@@ -1,5 +1,7 @@
 # Code. Create. Explore.
 
+<img src="./assets/code-create-explore.gif" width="300" alt="Pixel-art versions of Serkan representing Code, Create and Explore" />
+
 I'm Serkan, a **Frontend / Creative Developer**. I use code, AI and design to turn ideas into products, tools, characters and digital experiences.
 
 **Code** — I've been building frontend products since 2014, primarily in e-commerce. I care about readable systems, measurable performance, accessible interfaces and the small decisions that survive production.
