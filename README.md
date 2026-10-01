@@ -1,53 +1,20 @@
-# Serkan Uslu
+# Code. Create. Explore.
 
-**Frontend / Creative Developer**
+I'm Serkan, a **Frontend / Creative Developer**. I use code, AI and design to turn ideas into products, tools, characters and digital experiences.
 
-I turn ideas into products, tools and digital experiences using code, AI and design.
+**Code** — I've been building frontend products since 2014, primarily in e-commerce. I care about readable systems, measurable performance, accessible interfaces and the small decisions that survive production.
 
-[Website](https://serkanuslu.com) · [LinkedIn](https://www.linkedin.com/in/serkan-uslu/) · [Writing](https://medium.com/@serkan-uslu) · [Email](mailto:info@serkanuslu.com)
+**Create** — I explore AI as a material for new interfaces and forms of storytelling. My work moves between product development, creative coding, digital characters and practical experiments.
 
----
+**Explore** — Curiosity is usually the starting point. Travel, books, astronomy and everyday observations shape how I think, what I notice and what I make.
 
-## Selected work
-
-### 01 — Code
-
-**[TalkTree](https://www.talktree.ai/)**
-
-Branching AI conversations without losing the original path. I shaped the product idea, interaction model and frontend experience.
-
-**[Tell-We](https://tell-we.vercel.app/)**
-
-A programmatic AI video and storytelling platform that brings text, generated assets and React-based rendering together.
-
-**[Lucid Disk](https://github.com/serkan-uslu/lucid-disk)**
-
-A native Mac disk analyzer built with Swift. Source available on GitHub.
-
-### 02 — Create
-
-**[Fikry](https://asktofikry.vercel.app/)**
-
-An intentionally unreliable AI companion inside a retro CRT interface.
-
-**[Sadi](https://www.youtube.com/@TheLastFrontEndDeveloper)**
-
-A fictional character exploring the future of frontend development through comedy.
-
-**[Fallama](https://fallama.com)**
-
-A fortune-telling llama brought to life across web, mobile and social content.
-
-### 03 — Explore
-
-Curiosity is where most of my work begins. I write about products, AI, places and the ideas I meet along the way.
-
-[Read the TalkTree story](https://medium.com/@serkan-uslu/talktree-a-new-way-to-talk-with-artificial-intelligence-40340424969e) · [Explore more](https://serkanuslu.com)
+I like breaking complex things into understandable parts, testing assumptions and taking ideas all the way from first sketch to a working experience.
 
 ---
 
-Frontend since 2014. Currently working across **TypeScript, React, Next.js, Swift, React Native, Three.js, Remotion and AI workflows**.
-
-Have an idea, a project, or just want to say hello?
-
-[info@serkanuslu.com](mailto:info@serkanuslu.com)
+[Website](https://serkanuslu.com) ·
+[About](https://serkanuslu.com/en/about) ·
+[LinkedIn](https://www.linkedin.com/in/serkan-uslu/) ·
+[Writing](https://medium.com/@serkan-uslu) ·
+[Product Hunt](https://www.producthunt.com/@serkanuslu) ·
+[Email](mailto:info@serkanuslu.com)
